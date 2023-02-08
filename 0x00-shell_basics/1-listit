@@ -1,2 +1,2 @@
-/tmp/correction/5953343996949006761015497116713494020773_5/205/296569/0x00-shell_basics/
-1-listit doesn't contain ^#!/bin/bash
+^#!/bin/bash
+ls
